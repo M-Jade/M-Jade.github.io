@@ -1,4 +1,4 @@
-theme                  : "minimal-mistakes-jekyll"
+theme                    : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -15,6 +15,8 @@ repository               : "M-Jade/M-jade.github.io"
 teaser                   : "/assets/images/500x300.png"
 logo                     : "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+
+
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -109,24 +111,24 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+  # - label: "Twitter"
+  #    icon: "fab fa-fw fa-twitter-square"
+  #   # url:
+  # - label: "Facebook"
+  #    icon: "fab fa-fw fa-facebook-square"
+  #   # url:
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+       icon: "fab fa-fw fa-github"
+        url:
+  # - label: "GitLab"
+  #    icon: "fab fa-fw fa-gitlab"
+  #   # url:
+  # - label: "Bitbucket"
+  #    icon: "fab fa-fw fa-bitbucket"
+  #   # url:
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+       icon: "fab fa-fw fa-instagram"
+        url:
 
 
 # Reading Files
