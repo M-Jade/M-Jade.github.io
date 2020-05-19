@@ -91,7 +91,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -111,23 +111,23 @@ author:
 # Site Footer
 footer:
   links:
-   - label: "Twitter"
+    - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-     # url:
-   - label: "Facebook"
+      # url:
+    - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-     # url:
+      # url:
     - label: "GitHub"
-       icon: "fab fa-fw fa-github"
-     #  url:
-   - label: "GitLab"
+      icon: "fab fa-fw fa-github"
+      # url:
+    - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-     # url:
-   - label: "Bitbucket"
+      # url:
+    - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
-     # url:
+      # url:
     - label: "Instagram"
-       icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-instagram"
       # url:
 
 
